@@ -19,6 +19,10 @@ const { trSeoUrl } = require("tr-seo-url");
 
 (async () => {
   const result = await trSeoUrl("2 küçük agaçlık alan");
+  console.log(result);
 })();
-
 ```
+
+
+Sample Result:
+![Alt text](image.png)

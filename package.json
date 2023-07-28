@@ -1,0 +1,31 @@
+{
+  "name": "tr-seo-url",
+  "version": "0.0.1",
+  "description": "This module makes words with Turkish letters suitable for seo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhmttkmk0352/tr-seo-url.git"
+  },
+  "keywords": [
+    "tr",
+    "seo",
+    "url",
+    "seo",
+    "url",
+    "for",
+    "turkish",
+    "turkish",
+    "seo",
+    "url"
+  ],
+  "author": "Mehmet TOKMAK",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mhmttkmk0352/tr-seo-url/issues"
+  },
+  "homepage": "https://github.com/mhmttkmk0352/tr-seo-url#readme"
+}

@@ -25,4 +25,5 @@ const { trSeoUrl } = require("tr-seo-url");
 
 
 Sample Result:
+
 ![Alt text](image.png)

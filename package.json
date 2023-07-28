@@ -1,6 +1,6 @@
 {
   "name": "tr-seo-url",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "This module makes words with Turkish letters suitable for seo.",
   "main": "index.js",
   "scripts": {

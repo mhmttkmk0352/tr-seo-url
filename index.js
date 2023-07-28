@@ -92,7 +92,7 @@ class TrSeoUrl {
     });
   };
 
-  convertSeoURL = (value) => {
+  trSeoUrl = (value) => {
     return new Promise((resolve) => {
       (async () => {
         let letterOrNumberCheckerResult = await this.letterOrNumberChecker(
